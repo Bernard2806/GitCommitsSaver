@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObtenerCommits", "ObtenerCommits\ObtenerCommits.csproj", "{3713F2B0-050F-4C4F-9CB0-52A867A02E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3713F2B0-050F-4C4F-9CB0-52A867A02E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3713F2B0-050F-4C4F-9CB0-52A867A02E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3713F2B0-050F-4C4F-9CB0-52A867A02E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3713F2B0-050F-4C4F-9CB0-52A867A02E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE812D62-7E9F-4878-8C17-48D6310DC742}
+	EndGlobalSection
+EndGlobal
