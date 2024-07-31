@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ObtenerCommits
+namespace GitCommitsSaver
 {
     public static class MenuEasy
     {
